@@ -5,22 +5,20 @@ console.log( "Sou muito utilizado para mostar retornos de parte dos logarítimos
 // Exercício: 
 
 //Declarar uma variável com o seu nome 
-//Declarar uma variável com a sua idade
-//Declarar uma variável com a sua comida favorita e não 
-//atribuir valor
-//Atribuir valor a sua comida favorita
-
 const nome = "Luanny";
+//Declarar uma variável com a sua idade
+let idade = 34
+//Declarar uma variável com a sua comida favorita e não atribuir valor
+const comidaFavorita;
+//Atribuir valor a sua comida favorita
+const comidaFavorita = "Pizza";
 
 
 
-let comida favorita = "Pizza";
 
-console.log(comidaFavorita);
 
-comidaFavorita = "Pizza";
 
-console.log(comidaFavorita);
+
 
 // nome = "Julio
 
