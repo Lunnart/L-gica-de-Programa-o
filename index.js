@@ -1,17 +1,10 @@
-alert("Hello word!");
+alert("Hello word!");// alert("Hello world");
 
-console.log( "Sou muito utilizado para mostar retornos de parte dos logarítimos,ajudando o programador a debugar");
+const nome = "Luanny";   //Declarar variável com o seu nome
 
-// Exercício: 
+let comidaFavorita   //Declarar variável com a sua comida favorita e não atribuir valor
 
-//Declarar uma variável com o seu nome 
-const nome = "Luanny";
-//Declarar uma variável com a sua idade
-let idade = 34
-//Declarar uma variável com a sua comida favorita e não atribuir valor
-const comidaFavorita;
-//Atribuir valor a sua comida favorita
-const comidaFavorita = "Pizza";
+console.log(comidaFavorita); //undefined
 
 
 
@@ -20,7 +13,6 @@ const comidaFavorita = "Pizza";
 
 
 
-// nome = "Julio
 
 
 nome prompt('Digite seu nome");
